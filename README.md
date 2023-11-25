@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 I’m looking to collaborate on open source projects<br>🌱 I’m excited about distributed systems<br>💬 Ask me about blockchain/backend/microservices<br/>🤓 I’m very interested to get involved in a ML project and it's infra
+🔥 I’m looking to collaborate on open source projects<br>🌱 I’m excited about distributed systems<br>💬 Ask me about blockchain/backend/microservices/cryptography<br/>🤓 I’m very interested to get involved in a ML project and it's infra
 
 
 ## 🌐 Socials:
