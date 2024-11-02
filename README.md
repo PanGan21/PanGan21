@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔥 I’m looking to collaborate on open source projects<br>🌱 I’m excited about distributed systems<br>💬 Ask me about blockchain - backend - microservices - cryptography<br/>🤓 I’m very interested to get involved in a privacy preserving ML project
-
+🔥 I’m looking to collaborate on open source projects<br>🌱 I’m excited about distributed systems<br>💬 Ask me about blockchain - backend - microservices - cryptography<br/>🤓 I’m very interested to get involved in an A.I. open source project
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/panagiotis-ganelis-b89a88170/) 
