@@ -12,7 +12,5 @@ I love exploring the cutting edge of technology and contributing to communities.
 ## Open Source & Community 🌱  
 I’m a strong advocate for **open-source development** and actively contribute to projects that push the boundaries of what's possible. Helping communities grow and thrive is at the heart of what I do.  
 
-## Connect with Me 💬  
-Let’s collaborate, discuss, and create! You can find me here:  
-- [Twitter](https://x.com/pan__gan)
-- [Personal Page](https://pangan21.github.io/) 
+## Connect with Me 💬
+You can find me on my [personal page](https://pangan21.github.io/). 
